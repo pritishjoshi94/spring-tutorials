@@ -1,0 +1,8 @@
+ext {
+    lombokVersion = "1.18.8"
+}
+
+ext.libraries = [
+        // for lombok you need to add annotationProcessor in each child build.gradle file.
+        lombok: "org.projectlombok:lombok:${lombokVersion}"
+]
