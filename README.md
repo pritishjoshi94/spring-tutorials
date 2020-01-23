@@ -12,8 +12,5 @@ For Using or trying on local machine you just need to follow some steps.
 
 ************ Here is the list of all the branches and link to that branch ************
 
-* Multi-Module-Gradle-Project
-    * https://github.com/pritishjoshi94/spring-tutorials/tree/mutli-module-gradle-project
-
-* Applying Google Java Style Guide
-    *  https://github.com/pritishjoshi94/spring-tutorials/tree/applying-google-code-style-sheet
+* [Multi Module Gradle Project](https://github.com/pritishjoshi94/spring-tutorials/tree/mutli-module-gradle-project)
+* [Applying Google Java Style Guide](https://github.com/pritishjoshi94/spring-tutorials/tree/applying-google-code-style-sheet)
