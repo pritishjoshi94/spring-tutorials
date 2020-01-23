@@ -1,6 +1,6 @@
 # **Spring Boot Gradle Project**
 
-For Simplicity of using only required code,There is a seperate branch for each feature I will develop.
+For Simplicity of using only required code,There is a seperate branch for each feature developed.
 
 ************ Here is the list of all the branches and link to that branch ************
 
