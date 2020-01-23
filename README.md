@@ -1,17 +1,13 @@
-# spring-tutorials
-Spring Boot Gradle Project.
+# **Spring Boot Gradle Project**
 
-For creating a multi-module spring boot project.I followed this git repository
+For Simplicity of using only required code,There is a seperate branch for each feature I will develop.
 
-[https://github.com/spring-guides/gs-multi-module]
+************ Here is the list of all the branches and link to that branch ************
 
+For Using or trying on local machine you just need to follow some steps.
 
-Problem that I faced is of using library defined beans from the application module..
-
-another that I am trying is having common dependencies between all modules..
-
-what I have tried is [https://stackoverflow.com/a/9547593/5610686]
-
-[https://stackoverflow.com/a/56339960/5610686]
-
-[https://stackoverflow.com/a/47585089/5610686]
+1. Clone this repository  `git clone https://github.com/pritishjoshi94/spring-tutorials`
+2. Change branch to feature branch `git checkout <feature-branch-name>`
+3. Change to that feature branch on github UI `https://github.com/pritishjoshi94/spring-tutorials/tree/<feature-branch-name>`
+4. Follow the `README.md` file.
+5. For any doubts open issues. 
